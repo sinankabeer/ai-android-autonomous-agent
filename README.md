@@ -11,6 +11,8 @@ An AI powered Android automation agent that understands user commands and perfor
 - Execute multi-step tasks
 
 ## Architecture
+![Architecture](images/Simple Architecture.jpg)
+![Architecture](images/Deatailed Architecture.png)
 <img width="457" height="546" alt="b" src="https://github.com/user-attachments/assets/fb66d283-1236-440a-96c9-8fff15f09008" />
 
 
