@@ -33,6 +33,10 @@ An AI powered Android automation agent that understands user commands and perfor
 [Video Link]
 
 ## Screenshots
+![Screenshots](images/screenshots1.png)
+![Screenshots](images/screenshots2.png)
+![Screenshots](images/screenshots3.png)
+![Screenshots](images/screenshots4.png)
 <img width="694" height="493" alt="a" src="https://github.com/user-attachments/assets/a492d06a-6d6b-46f4-9fab-3ffce8714683" />
 <img width="714" height="585" alt="d" src="https://github.com/user-attachments/assets/041efef6-7942-46e2-93e7-65deb1dc4f75" />
 <img width="677" height="635" alt="e" src="https://github.com/user-attachments/assets/3ff6a75b-3581-4dd3-a67a-822258baa8bb" />
