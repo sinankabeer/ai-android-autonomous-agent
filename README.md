@@ -3,6 +3,9 @@
 ## Overview
 An AI powered Android automation agent that understands user commands and performs actions on Android devices.
 
+## Objective
+Build an AI powered Android automation agent that converts natural language instructions into executable Android actions using Claude API and ADB.
+
 ## Features
 - Open applications
 - Search on YouTube
@@ -12,7 +15,7 @@ An AI powered Android automation agent that understands user commands and perfor
 
 ## Architecture
 ![Architecture](images/Simple Architecture.jpg)
-![Architecture](images/Deatailed Architecture.png)
+
 <img width="457" height="546" alt="b" src="https://github.com/user-attachments/assets/fb66d283-1236-440a-96c9-8fff15f09008" />
 
 
@@ -23,11 +26,20 @@ An AI powered Android automation agent that understands user commands and perfor
 - Android
 
 ## Workflow
-1. User gives command
-2. Claude interprets intent
-3. Agent plans actions
-4. ADB executes actions
-5. Result returned
+1. User gives voice/text command
+2. Claude API interprets intent
+3. Screenshot captured via ADB
+4. OCR extracts screen text
+5. Agent plans next action
+6. ADB executes action
+7. Screen re-evaluated
+8. Repeat until task completion
+
+## Example Commands
+- Open Chrome and search weather
+- Open YouTube and search AI agents
+- Open Settings
+- Search Amazon ML Summer School
 
 ## Demo
 [Video Link]
